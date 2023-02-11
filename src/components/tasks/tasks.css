@@ -1,0 +1,48 @@
+.list {
+  margin-bottom: 20px;
+}
+
+.listHeading {
+  display: flex;
+  justify-content: space-between;
+}
+.listHeading > span {
+  font-weight: bold;
+  font-size: 16px;
+  margin-top: -2px;
+}
+.list-btns {
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+  margin: 10px 0px;
+}
+.addTaskForm {
+  display: flex;
+  margin-top: -4px;
+  gap: 8px;
+}
+.editTaskForm {
+  display: flex;
+  gap: 8px;
+}
+.edit-btn {
+  background-color: #ffc107;
+  color: white;
+  border: none;
+}
+.edit-btn:hover {
+  background-color: #ffc107b8;
+  color: white !important;
+  transition: 0.2s ease-in-out;
+}
+.save-btn {
+  background-color: #28a745;
+  color: white;
+  border: none;
+}
+.save-btn:hover {
+  background-color: #28a745;
+  color: white !important;
+  transition: 0.2s ease-in-out;
+}

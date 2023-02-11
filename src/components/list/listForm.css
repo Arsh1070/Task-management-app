@@ -1,0 +1,12 @@
+.listForm {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px 0px;
+  gap: 8px;
+}
+@media screen and (max-width: 588px) {
+  .listForm {
+    display: flex;
+  }
+}
