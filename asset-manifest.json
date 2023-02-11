@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Task-management-app/static/css/main.618b1631.css",
+    "main.js": "/Task-management-app/static/js/main.5b5c05f7.js",
+    "static/js/787.6e83e009.chunk.js": "/Task-management-app/static/js/787.6e83e009.chunk.js",
+    "index.html": "/Task-management-app/index.html",
+    "main.618b1631.css.map": "/Task-management-app/static/css/main.618b1631.css.map",
+    "main.5b5c05f7.js.map": "/Task-management-app/static/js/main.5b5c05f7.js.map",
+    "787.6e83e009.chunk.js.map": "/Task-management-app/static/js/787.6e83e009.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.618b1631.css",
+    "static/js/main.5b5c05f7.js"
+  ]
+}
